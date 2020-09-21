@@ -1,6 +1,6 @@
 # Starter Kit Image Node.js
 
-TODO
+Sample Node.js workload for [Starter Kit](https://github.com/larkintuckerllc/starter-kit).
 
 ## Contributing
 
